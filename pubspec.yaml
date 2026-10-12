@@ -1,6 +1,7 @@
 name: turbo_racing
-description: Turbo Racing: Carrera Extrema para Android.
+description: "Turbo Racing: Carrera Extrema para Android."
 publish_to: "none"
+
 version: 1.0.0+1
 
 environment:
